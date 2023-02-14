@@ -69,4 +69,3 @@ def navigate_folder_to_build_embeddings(folder: str) -> pd.DataFrame:
         for f in fnmatch.filter(files, '*.txt'):
             fullname = os.path.abspath(os.path.join(path, f))
             return buildEmbeddingsCSV(fullname)
-
