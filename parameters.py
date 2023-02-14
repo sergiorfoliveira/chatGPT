@@ -15,5 +15,5 @@ PROMPT_HEADER = """Responda a pergunta o mais verossímil possível usando o con
 FOLDER = "C:/Users/F9910101/Downloads/embeddings/"
 EMBEDDINGS_CSV = FOLDER + "politica.csv"
 ENCODING = "utf8"
-# curl https://instancellkopenai.openai.azure.com/openai/deployments/deployment02/embeddings?api-version=2022-12-01 -H "Content-Type:application/json"   -H "api-key:1d039b8f6ee64038b277b7056ad08fe0" -d "{\"input\":\"The food was delicious and the waiter...\"}"
+
 
