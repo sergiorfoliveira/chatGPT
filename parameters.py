@@ -1,6 +1,6 @@
 EMBEDDING_MODEL = "text-embedding-ada-002"
 COMPLETIONS_MODEL = "text-davinci-003"
-API_KEY = '1d039b8f6ee64038b277b7056ad08fe0'
+API_KEY = ''
 API_TYPE = "azure"
 API_BASE = "https://instancellkopenai.openai.azure.com/"
 API_VERSION = "2022-12-01"
